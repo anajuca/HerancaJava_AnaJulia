@@ -1,1 +1,1 @@
-Estou resolvendo problemas com a exportação do vídeo, ele estará disponível ainda hoje.
+Vídeo de explicação do código: https://drive.google.com/file/d/1SFriWNuddsMMQONwG9xPvmZgp_qWtWHq/view?usp=sharing
